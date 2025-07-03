@@ -6,11 +6,11 @@ A React-based coding challenge solution for Avantos, this project implements a s
 
 ## Status
 
-> **🚧 _Currently implementing field-mapping UI and graph-driven form rendering._ 🚧**
+> **🚀 Submitted for consideration 🚀**
 
 ## Structure
 
-- `src/components/`: UI components like `FormList`, `PrefillEditor`
+- `src/components/`: UI components like `PrefillEditor`
 - `src/hooks/`: Custom hooks like `useFormGraph`
 - `src/api/`: API integration logic (e.g., `fetchGraph.ts`)
 - `src/utils/`: Graph helpers, data source logic
@@ -57,8 +57,6 @@ Navigate to the development server URL to view the application.
   - Easily add new data sources (e.g., global properties) via `dataSources.ts`
   - Extensible field transformation logic in `transformFunctions.ts`
 
----
-
 ## 🧠 Architecture Notes
 
 - **Type-safe and Scalable**: All major entities—forms, fields, mappings—are typed via `formTypes.ts`.
@@ -70,4 +68,9 @@ Navigate to the development server URL to view the application.
   - `useFormGraph`: handles normalized graph structure and fetching
   - `MappingContext` / `FormDataContext`: isolates state updates from UI logic
 
----
+## 📬 Contact
+
+Kevin Wagner  
+[GitHub Profile](https://github.com/kjwagner613)
+[Portfolio](https://portfolio-craftsman.netlify.app/)
+Email: [kevin.wagner.2024@outlook.com](mailto:kevin.wagner.2024@outlook.com)
