@@ -8,6 +8,8 @@ A React-based coding challenge solution for Avantos, this project implements a s
 
 > **🚀 Submitted for consideration 🚀**
 
+> [YouTube Video](https://www.youtube.com/watch?v=oHmRjmdhKho)
+
 ## Structure
 
 - `src/components/`: UI components like `PrefillEditor`
