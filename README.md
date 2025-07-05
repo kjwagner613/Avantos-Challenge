@@ -76,3 +76,9 @@ Kevin Wagner
 [GitHub Profile](https://github.com/kjwagner613)
 [Portfolio](https://portfolio-craftsman.netlify.app/)
 Email: [kevin.wagner.2024@outlook.com](mailto:kevin.wagner.2024@outlook.com)
+
+## Intellectual Property Notice
+
+This repository and its contents are the intellectual property of kjwagner613. Unauthorized use, copying, or distribution is prohibited without express permission.
+
+This code was submitted as part of a job application coding challenge and is intended only for review by the relevant party.
