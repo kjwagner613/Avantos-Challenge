@@ -1,8 +1,8 @@
-# Avantos Form Mapping Challenge
+# DAG Form Mapping Challenge
 
 ## 📥 Journey Builder – Prefill Mapping UI
 
-A React-based coding challenge solution for Avantos, this project implements a simplified interface for managing field prefill logic across a Directed Acyclic Graph (DAG) of forms. It focuses on modular architecture, clean UX, and extensibility by design.
+A React-based coding challenge solution for an application to Avantos, this project implements a simplified interface for managing field prefill logic across a Directed Acyclic Graph (DAG) of forms. It focuses on modular architecture, clean UX, and extensibility by design.
 
 ## Status
 
